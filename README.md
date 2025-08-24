@@ -14,6 +14,8 @@ Crow is a plug-and-play (Ollama-like) system to convert, inspect, and run LLM we
 
 > **Status**: **ALPHA** — APIs, file layout, ergonomics and performance are stabilizing. Expect breaking changes.
 
+The .gguf and .cawsf files included here are just test/toy examples to validate the flow. For real weights, use crow convert and crow export-gguf.
+
 ## Table of Contents
 
 * [What is Crow?](#what-is-crow)
